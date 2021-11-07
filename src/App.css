@@ -2,6 +2,48 @@
   text-align: center;
 }
 
+.header{
+  display:flex;
+  justify-content: space-between;
+}
+
+.header_name{
+
+}
+.header_menu{
+  display: flex;
+  justify-content: space-around;
+}
+
+.header_button{
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
